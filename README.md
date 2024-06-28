@@ -7,11 +7,11 @@ A video platform UI project showcasing responsive design and navigation features
 - [Screenshots](#screenshots)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Author](#Author)
+
 
 ## Screenshots
+
 ### Home Page
 ![image](https://github.com/Dheeraj-Satheesh/MYTUBE/assets/114674547/6fe17f52-f8b1-46ab-a668-9a44520b65fd)
 
@@ -30,3 +30,9 @@ A video platform UI project showcasing responsive design and navigation features
 ```bash
 git clone https://github.com/your-username/MyTube.git
 cd MyTube
+
+## Author
+- Satheesh Dheeraj
+- satheeshdheeraj2004@@gmail.com
+
+
