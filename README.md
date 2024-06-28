@@ -7,7 +7,8 @@ A video platform UI project showcasing responsive design and navigation features
 - [Screenshots](#screenshots)
 - [Features](#features)
 - [Installation](#installation)
-- [Author](#Author)
+- [Author](#author)
+- 
 
 
 ## Screenshots
@@ -33,8 +34,5 @@ cd MyTube
 
 ## Author
 - Satheesh Dheeraj
-- satheeshdheeraj2004@@gmail.com
-
-
-Replace `Your Name` with your actual name and `email@example.com` with your actual contact email address. This section provides clear attribution to the author(s) of the project.
+- satheeshdheeraj2004@gmail.com
 
