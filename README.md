@@ -29,7 +29,7 @@ A video platform UI project showcasing responsive design and navigation features
 
 ## Installation
 ```bash
-git clone https://github.com/your-username/MyTube.git
+git clone https://github.com/Dheeraj-Satheesh/MyTube.git
 cd MyTube
 
 
