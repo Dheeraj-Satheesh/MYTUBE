@@ -8,7 +8,7 @@ A video platform UI project showcasing responsive design and navigation features
 - [Features](#features)
 - [Installation](#installation)
 - [Author](#author)
-- 
+
 
 
 ## Screenshots
@@ -32,7 +32,5 @@ A video platform UI project showcasing responsive design and navigation features
 git clone https://github.com/your-username/MyTube.git
 cd MyTube
 
-## Author
-- Satheesh Dheeraj
-- satheeshdheeraj2004@gmail.com
+
 
