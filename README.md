@@ -14,7 +14,9 @@ A video platform UI project showcasing responsive design and navigation features
 ## Screenshots
 ### Home Page
 ![image](https://github.com/Dheeraj-Satheesh/MYTUBE/assets/114674547/6fe17f52-f8b1-46ab-a668-9a44520b65fd)
-.png)
+
+### Play Video Page
+
 ![image](https://github.com/Dheeraj-Satheesh/MYTUBE/assets/114674547/dfe60899-37ce-486e-8574-ae187b096f4d)
 
 
