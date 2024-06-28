@@ -36,3 +36,5 @@ cd MyTube
 - satheeshdheeraj2004@@gmail.com
 
 
+Replace `Your Name` with your actual name and `email@example.com` with your actual contact email address. This section provides clear attribution to the author(s) of the project.
+
